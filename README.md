@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the k6 automation testing project for Sirius Binary.
+- This is the k6 automation testing project for Sirius Binary.
 
 ## Configuration
 
@@ -22,7 +22,8 @@ node --version
 
 ### Dependencies
 
-You need to have docker installed
+- You need to have docker installed
+- You need this playground deployed locally (https://github.com/antonyfuentes/testing-playground)
 
 ### Clone the repository
 
